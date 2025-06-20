@@ -1,0 +1,319 @@
+[
+  {
+    "id": "joseph-mwamba",
+    "name": "Joseph Mwamba",
+    "title": "Web Developer & Frontend Engineer",
+    "avatar": "/avatars/joseph.png",
+    "location": "Lusaka, Zambia",
+    "theme": "blue",
+    "contact": {
+      "email": "mwambaj2002@gmail.com",
+      "phone": "+260 777 711 657",
+      "linkedin": "https://linkedin.com/in/joseph-mwamba",
+      "github": "https://github.com/JosephTy7",
+      "portfolio": "https://portfolio-e5bl.onrender.com/"
+    },
+    "bio": "Dynamic Web Developer with a keen eye for responsive, high-performance UI design. Experienced in production-grade HTML/CSS/JavaScript builds and actively expanding into modern stacks like React, Next.js, and Node.js.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computing",
+        "institution": "Cavendish University Zambia",
+        "year": "Expected: Oct 2025",
+        "gpa": "3.7",
+        "description": "Comprehensive computing program covering software development, web technologies, and modern programming paradigms"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Lead Web Developer",
+        "company": "Gecogamesstudio",
+        "period": "Dec 2022 – Present",
+        "description": "Led front-end development for multiple production websites using Next.js and modern frameworks, implemented mobile-first design, handled Figma-to-code translation, and delivered cross-functional features"
+      }
+    ],
+    "skills": [
+      { "name": "HTML5/CSS3", "level": 95 },
+      { "name": "JavaScript", "level": 90 },
+      { "name": "PHP", "level": 85 },
+      { "name": "React", "level": 75 },
+      { "name": "Next.js", "level": 70 },
+      { "name": "Node.js", "level": 65 },
+      { "name": "Robotics", "level": 60 }
+    ],
+    "softSkills": ["Problem Solving", "Fast Learning", "Team Collaboration", "Adaptability"],
+    "projects": [
+      {
+        "title": "Arts Plus Zambia",
+        "description": "Production website showcasing Zambian arts and culture with responsive design built using Next.js and modern web technologies",
+        "url": "https://artspluszm.com/",
+        "tech": ["Next.js", "HTML5", "CSS3", "JavaScript", "PHP"]
+      },
+      {
+        "title": "Personal Portfolio",
+        "description": "Professional portfolio website showcasing web development projects and skills, built with Next.js for optimal performance",
+        "url": "https://portfolio-e5bl.onrender.com/",
+        "tech": ["Next.js", "HTML5", "CSS3", "JavaScript", "Responsive Design"]
+      }
+    ],
+    "certifications": [
+      "Web Development Fundamentals - Coursera",
+      "Responsive Web Design - Coursera",
+      "JavaScript ES6+ Programming - Coursera",
+      "React Development - Coursera",
+      "Next.js Full Stack Development - Coursera"
+    ]
+  },
+  {
+    "id": "taizya-simunza",
+    "name": "Taizya Isaac Simunza",
+    "title": "Graphic Designer • Developer • Data Analyst",
+    "avatar": "/avatars/taizya.png",
+    "location": "Avondale, Lusaka, Zambia",
+    "theme": "purple",
+    "contact": {
+      "email": "mank7035@gmail.com",
+      "phone": "+260 770 740 380",
+      "linkedin": "https://linkedin.com/in/taizya-simunza",
+      "github": "https://github.com/taizya-simunza"
+    },
+    "bio": "Innovative and versatile 4th-year Computer Science student with a 3.5 GPA. Experienced across software development, graphic design, and IT consultancy. Passionate about solving real-world problems through technology, and currently developing a car hire platform for a startup.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computing",
+        "institution": "Cavendish University Zambia",
+        "year": "2021 – 2025",
+        "gpa": "3.5",
+        "description": "Maintaining 3.5 GPA while specializing in software development, data analytics, and digital design"
+      },
+      {
+        "degree": "Grade 12 Certificate",
+        "institution": "Don Gordon School",
+        "year": "2017",
+        "description": "Completed secondary education with focus on mathematics and sciences"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Senior Artist / Project Manager",
+        "company": "GECO Games Studios Ltd",
+        "period": "2021 – 2024",
+        "description": "Led game design projects from concept to launch, produced digital art assets, and managed team of artists and developers"
+      },
+      {
+        "role": "IT Consultant & Developer",
+        "company": "Basileia Travel Tours & Car Hire Ltd",
+        "period": "Feb 2025 – Present",
+        "description": "Procured IT infrastructure and currently developing comprehensive car hire web platform"
+      },
+      {
+        "role": "Media Lead",
+        "company": "Dominion Faith Center: The City Gate",
+        "period": "2019 – Present",
+        "description": "Managed social media and graphic production, handled live sound engineering for events"
+      }
+    ],
+    "skills": [
+      { "name": "Next.js", "level": 88 },
+      { "name": "Python", "level": 85 },
+      { "name": "Data Analysis", "level": 90 },
+      { "name": "Graphic Design", "level": 95 },
+      { "name": "Project Management", "level": 85 },
+      { "name": "Digital Art", "level": 90 },
+      { "name": "Robotics", "level": 70 }
+    ],
+    "softSkills": ["Leadership", "Public Speaking", "Communication", "Teamwork"],
+    "projects": [
+      {
+        "title": "Car Hire Platform",
+        "description": "Full-stack web platform for car rental business with booking system and management dashboard",
+        "url": "#",
+        "tech": ["Next.js", "Python", "Database Management"]
+      },
+      {
+        "title": "Game Design Projects",
+        "description": "Multiple game design projects from concept to launch at GECO Games Studios",
+        "url": "#",
+        "tech": ["Digital Art", "Project Management", "Team Leadership"]
+      },
+      {
+        "title": "Media Production Suite",
+        "description": "Comprehensive media management system for church events and social media",
+        "url": "#",
+        "tech": ["Graphic Design", "Sound Engineering", "Social Media"]
+      }
+    ],
+    "certifications": [
+      "Operations Research - Coursera",
+      "Web Development - Coursera",
+      "Artificial Intelligence - Coursera",
+      "Data Analytics - Coursera"
+    ]
+  },
+  {
+    "id": "gary-mbuyi",
+    "name": "Gary Mbuyi",
+    "title": "Web Developer & Computer Science Student",
+    "avatar": "/avatars/gary.png",
+    "location": "Chingola / Lusaka, Zambia",
+    "theme": "green",
+    "contact": {
+      "email": "gary.mbuyi11@gmail.com",
+      "phone": "+260 761 023 998",
+      "linkedin": "https://linkedin.com/in/gary-mbuyi",
+      "github": "https://github.com/gary-mbuyi"
+    },
+    "bio": "Final-year Computer Science student with strong web development skills and a passion for solving real-world problems using technology. Experienced with a broad tech stack and currently expanding into Python and React for data and dynamic apps.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computing",
+        "institution": "Cavendish University Zambia",
+        "year": "Expected: Oct 2025",
+        "gpa": "3.6",
+        "description": "Specializing in Software Development, Database Management, Web Development, and Data Structures & Algorithms"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Computer Science Student",
+        "company": "Cavendish University Zambia",
+        "period": "2021 – Present",
+        "description": "Active participant in Cavendish Robotics Club and STEM competitions, developing practical solutions through academic projects"
+      }
+    ],
+    "skills": [
+      { "name": "HTML/CSS", "level": 90 },
+      { "name": "JavaScript", "level": 85 },
+      { "name": "Java", "level": 88 },
+      { "name": "SQL", "level": 85 },
+      { "name": "PHP", "level": 80 },
+      { "name": "Python", "level": 75 },
+      { "name": "Robotics", "level": 75 }
+    ],
+    "softSkills": ["Problem Solving", "Scalable Design Thinking", "Team Collaboration", "STEM Innovation"],
+    "projects": [
+      {
+        "title": "Mental Health Chatbot",
+        "description": "AI-powered chatbot with Python backend and responsive frontend for mental health support",
+        "url": "#",
+        "tech": ["Python", "HTML", "CSS", "JavaScript"]
+      },
+      {
+        "title": "Hospital Management System",
+        "description": "Comprehensive full-stack web application for healthcare facility management",
+        "url": "#",
+        "tech": ["Java", "SQL", "Web Development"]
+      },
+      {
+        "title": "E-Commerce Car Sale Platform",
+        "description": "Complete car sales platform with SQL database and full CRUD functionality",
+        "url": "#",
+        "tech": ["SQL", "PHP", "JavaScript", "Database Design"]
+      },
+      {
+        "title": "Flight Seat Booking Simulator",
+        "description": "Java-based application simulating airline booking system with database integration",
+        "url": "#",
+        "tech": ["Java", "SQL", "CRUD Operations"]
+      }
+    ],
+    "certifications": [
+      "Exploratory Data Analysis – Coursera",
+      "Supervised Machine Learning – Coursera",
+      "Generative AI – Coursera",
+      "Inventory Management – Coursera",
+      "Game Theory – Coursera"
+    ]
+  },
+  {
+    "id": "emmanuel-zulu",
+    "name": "Emmanuel Zulu",
+    "title": "Computer Science Student & AI Developer",
+    "avatar": "/avatars/emmanuel.png",
+    "location": "Lusaka, Zambia",
+    "theme": "pink",
+    "contact": {
+      "email": "emmanuelnathanzulu343@gmail.com",
+      "phone": "+260 967 929 067",
+      "linkedin": "https://linkedin.com/in/emmanuel-zulu",
+      "github": "https://github.com/emmanuel-zulu"
+    },
+    "bio": "Dedicated and ambitious Computer Science student passionate about building impactful, AI-driven solutions. Experienced in web development, machine learning, and team-based software engineering projects.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computing",
+        "institution": "Cavendish University Zambia",
+        "year": "Aug 2021 – Jun 2025",
+        "gpa": "3.4",
+        "description": "Focused on Software Engineering, AI, Data Structures, and Networking with hands-on project experience"
+      },
+      {
+        "degree": "Grade 12 Certificate",
+        "institution": "Chelston Secondary School",
+        "year": "2018 – 2020",
+        "description": "Completed secondary education with strong foundation in mathematics and sciences"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Data Clean-Up Clerk",
+        "company": "Shreeji Investment Ltd - MTN BPO",
+        "period": "Dec 2024",
+        "description": "Validated customer records and maintained compliance with data regulations for telecommunications data"
+      },
+      {
+        "role": "Production Assistant",
+        "company": "Jamiel Banda Photography",
+        "period": "Mar 2021 – Nov 2022",
+        "description": "Setup and relocation of technical equipment, post-production support, and maintained production quality standards"
+      },
+      {
+        "role": "TV Ad Model",
+        "company": "MTN Zambia",
+        "period": "Nov 2021",
+        "description": "Featured in national TV ad campaign and collaborated with creatives for campaign vision"
+      }
+    ],
+    "skills": [
+      { "name": "Python", "level": 90 },
+      { "name": "Machine Learning", "level": 85 },
+      { "name": "JavaScript", "level": 80 },
+      { "name": "React.js", "level": 75 },
+      { "name": "Node.js", "level": 75 },
+      { "name": "Neural Networks", "level": 80 },
+      { "name": "Robotics", "level": 65 }
+    ],
+    "softSkills": [
+      "Analytical Thinking",
+      "Team Collaboration",
+      "Effective Communication",
+      "Creative Thinking",
+      "Systems Analysis"
+    ],
+    "projects": [
+      {
+        "title": "AI-Powered Symptom Diagnostic System",
+        "description": "Final year hospital management system with integrated AI diagnosis capabilities for healthcare",
+        "url": "#",
+        "tech": ["Python", "Machine Learning", "Neural Networks", "Healthcare AI"]
+      },
+      {
+        "title": "Job Application Platform",
+        "description": "Full-stack web application built with modern technologies for job seekers and employers",
+        "url": "#",
+        "tech": ["React.js", "Node.js", "JavaScript", "Full-Stack Development"]
+      },
+      {
+        "title": "Robotics Automation System",
+        "description": "Integrated Arduino sensors and logic for robotics automation and control systems",
+        "url": "#",
+        "tech": ["Arduino", "Python", "Sensors", "Automation"]
+      }
+    ],
+    "certifications": [
+      "Machine Learning Fundamentals",
+      "Neural Networks and Deep Learning",
+      "Full-Stack Web Development",
+      "Arduino Programming and Robotics"
+    ]
+  }
+]
