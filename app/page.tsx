@@ -7,9 +7,48 @@ import { AnimatedTitle } from "./components/AnimatedTitle"
 import { ParticleBackground } from "./components/ParticleBackground"
 import { LoadingScreen } from "./components/LoadingScreen"
 import { CoreValues } from "./components/CoreValues"
-import { CTASection } from "./components/CTASection"
 import { AnimatedDivider, FloatingElements, SmoothScrollButton } from "./components/InteractiveElements"
 import membersData from "../data/members.json"
+import Link from "next/link"
+
+export const CTASection = () => {
+  return (
+    <section className="py-16 sm:py-20 text-center">
+      <motion.div
+        initial={{ opacity: 0, y: 30 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8, delay: 5.5 }}
+        className="max-w-3xl mx-auto"
+      >
+        <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6 sm:mb-8 px-4">
+          Ready to Elevate Your Digital Presence?
+        </h2>
+        <p className="text-lg sm:text-xl text-gray-300 leading-relaxed mb-8 sm:mb-10 px-4">
+          Join forces with The Council and transform your vision into a stunning reality. Let's build something
+          extraordinary together.
+        </p>
+        <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-6 px-4">
+          <Link href="/work" passHref>
+            <motion.a
+              href="/work"
+              className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:from-pink-500 hover:via-purple-500 hover:to-blue-500 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-400"
+            >
+              View Our Work
+            </motion.a>
+          </Link>
+          <Link href="/contact" passHref>
+            <motion.a
+              href="/contact"
+              className="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 hover:from-blue-500 hover:via-purple-500 hover:to-pink-500 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-400"
+            >
+              Get In Touch
+            </motion.a>
+          </Link>
+        </div>
+      </motion.div>
+    </section>
+  )
+}
 
 export default function HomePage() {
   const [isLoading, setIsLoading] = useState(true)

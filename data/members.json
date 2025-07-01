@@ -38,19 +38,22 @@
       { "name": "React", "level": 75 },
       { "name": "Next.js", "level": 70 },
       { "name": "Node.js", "level": 65 },
-      { "name": "Robotics", "level": 60 }
+      { "name": "Robotics", "level": 55 },
+      { "name": "Figma", "level": 50 },
+      { "name": "Responsive Design", "level": 90 },
+      { "name": "Cross-Browser Compatibility", "level": 85 }
     ],
     "softSkills": ["Problem Solving", "Fast Learning", "Team Collaboration", "Adaptability"],
     "projects": [
       {
         "title": "Arts Plus Zambia",
-        "description": "Production website showcasing Zambian arts and culture with responsive design built using Next.js and modern web technologies",
+        "description": "Production website showcasing Zambian arts and culture with responsive design built using Next.js and modern web technologies. Built with Next.js.",
         "url": "https://artspluszm.com/",
         "tech": ["Next.js", "HTML5", "CSS3", "JavaScript", "PHP"]
       },
       {
         "title": "Personal Portfolio",
-        "description": "Professional portfolio website showcasing web development projects and skills, built with Next.js for optimal performance",
+        "description": "Professional portfolio website showcasing web development projects and skills, built with Next.js for optimal performance. Built with Next.js.",
         "url": "https://portfolio-e5bl.onrender.com/",
         "tech": ["Next.js", "HTML5", "CSS3", "JavaScript", "Responsive Design"]
       }
@@ -89,6 +92,7 @@
         "degree": "Grade 12 Certificate",
         "institution": "Don Gordon School",
         "year": "2017",
+        "gpa": null,
         "description": "Completed secondary education with focus on mathematics and sciences"
       }
     ],
@@ -155,7 +159,7 @@
     "title": "Web Developer & Computer Science Student",
     "avatar": "/avatars/gary.png",
     "location": "Chingola / Lusaka, Zambia",
-    "theme": "green",
+    "theme": "gold",
     "contact": {
       "email": "gary.mbuyi11@gmail.com",
       "phone": "+260 761 023 998",
@@ -187,7 +191,9 @@
       { "name": "SQL", "level": 85 },
       { "name": "PHP", "level": 80 },
       { "name": "Python", "level": 75 },
-      { "name": "Robotics", "level": 75 }
+      { "name": "Robotics", "level": 70 },
+      { "name": "Math", "level": 99 },
+      { "name": "React.js", "level": 40 }
     ],
     "softSkills": ["Problem Solving", "Scalable Design Thinking", "Team Collaboration", "STEM Innovation"],
     "projects": [
@@ -230,7 +236,7 @@
     "title": "Computer Science Student & AI Developer",
     "avatar": "/avatars/emmanuel.png",
     "location": "Lusaka, Zambia",
-    "theme": "pink",
+    "theme": "sky",
     "contact": {
       "email": "emmanuelnathanzulu343@gmail.com",
       "phone": "+260 967 929 067",
@@ -250,6 +256,7 @@
         "degree": "Grade 12 Certificate",
         "institution": "Chelston Secondary School",
         "year": "2018 – 2020",
+        "gpa": null,
         "description": "Completed secondary education with strong foundation in mathematics and sciences"
       }
     ],
@@ -280,7 +287,8 @@
       { "name": "React.js", "level": 75 },
       { "name": "Node.js", "level": 75 },
       { "name": "Neural Networks", "level": 80 },
-      { "name": "Robotics", "level": 65 }
+      { "name": "Robotics", "level": 60 },
+      { "name": "Photography", "level": 70 }
     ],
     "softSkills": [
       "Analytical Thinking",
