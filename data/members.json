@@ -70,7 +70,7 @@
     "id": "taizya-simunza",
     "name": "Taizya Isaac Simunza",
     "title": "Graphic Designer • Developer • Data Analyst",
-    "avatar": "/avatars/taizya.png",
+    "avatar": "/public/avatars/Tai.jpg",
     "location": "Avondale, Lusaka, Zambia",
     "theme": "purple",
     "contact": {
@@ -157,7 +157,7 @@
     "id": "gary-mbuyi",
     "name": "Gary Mbuyi",
     "title": "Web Developer & Computer Science Student",
-    "avatar": "/avatars/gary.png",
+    "avatar": "../public/avatars/Gary.jpg",
     "location": "Chingola / Lusaka, Zambia",
     "theme": "gold",
     "contact": {
@@ -234,7 +234,7 @@
     "id": "emmanuel-zulu",
     "name": "Emmanuel Zulu",
     "title": "Computer Science Student & AI Developer",
-    "avatar": "/avatars/emmanuel.png",
+    "avatar": "/public/avatars/Emma.jpg",
     "location": "Lusaka, Zambia",
     "theme": "sky",
     "contact": {
