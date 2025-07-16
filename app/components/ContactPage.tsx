@@ -111,7 +111,7 @@ export function ContactPage() {
                     href="mailto:mwambaj2002@gmail.com"
                     className="text-blue-400 hover:text-blue-300 transition-colors"
                   >
-                    mwambaj2002@gmail.com
+                    thecounciltc22@gmail.com
                   </a>
                 </div>
               </motion.div>

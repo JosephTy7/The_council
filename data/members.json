@@ -3,7 +3,7 @@
     "id": "joseph-mwamba",
     "name": "Joseph Mwamba",
     "title": "Web Developer & Frontend Engineer",
-    "avatar": "/avatars/joseph.png",
+    "avatar": "/avatars/Jose-.JPG",
     "location": "Lusaka, Zambia",
     "theme": "blue",
     "contact": {
@@ -70,7 +70,7 @@
     "id": "taizya-simunza",
     "name": "Taizya Isaac Simunza",
     "title": "Graphic Designer • Developer • Data Analyst",
-    "avatar": "/public/avatars/Tai.jpg",
+    "avatar": "/avatars/Tai.jpg",
     "location": "Avondale, Lusaka, Zambia",
     "theme": "purple",
     "contact": {
@@ -157,7 +157,7 @@
     "id": "gary-mbuyi",
     "name": "Gary Mbuyi",
     "title": "Web Developer & Computer Science Student",
-    "avatar": "../public/avatars/Gary.jpg",
+    "avatar": "/avatars/Gary.jpg",
     "location": "Chingola / Lusaka, Zambia",
     "theme": "gold",
     "contact": {
@@ -234,7 +234,7 @@
     "id": "emmanuel-zulu",
     "name": "Emmanuel Zulu",
     "title": "Computer Science Student & AI Developer",
-    "avatar": "/public/avatars/Emma.jpg",
+    "avatar": "/avatars/Emma.jpg",
     "location": "Lusaka, Zambia",
     "theme": "sky",
     "contact": {

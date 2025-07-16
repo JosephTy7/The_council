@@ -100,19 +100,16 @@ export function AvatarCard({ member, isSelected, onHover, index }: AvatarCardPro
 
   // Generate placeholder image URL based on member theme
   const getPlaceholderImage = () => {
-    const colors = {
-      blue: "4F46E5,06B6D4",
-      purple: "8B5CF6,EC4899",
-      green: "10B981,059669",
-      pink: "EC4899,F43F5E",
-    }
-    const colorPair = colors[member.theme as keyof typeof colors] || colors.blue
-    return `/placeholder.svg?height=400&width=400&text=${encodeURIComponent(
-      member.name
-        .split(" ")
-        .map((n) => n[0])
-        .join(""),
-    )}&bg=${colorPair.split(",")[0]}&color=ffffff`
+    // Use the actual avatar from member data, fallback to a simple placeholder if needed
+    return (
+      member.avatar ||
+      `/placeholder.svg?height=400&width=400&text=${encodeURIComponent(
+        member.name
+          .split(" ")
+          .map((n) => n[0])
+          .join(""),
+      )}&bg=4F46E5&color=ffffff`
+    )
   }
 
   return (
