@@ -156,7 +156,7 @@
   {
     "id": "gary-mbuyi",
     "name": "Gary Mbuyi",
-    "title": "Web Developer & Computer Science Student",
+    "title": "Web Developer • Data Analyst • Hardware Engineer",
     "avatar": "/avatars/Gary.jpg",
     "location": "Chingola / Lusaka, Zambia",
     "theme": "gold",
@@ -178,6 +178,13 @@
     ],
     "experience": [
       {
+        "role": "Student",
+        "company": "Nchanga Secondary Trust School",
+        "period": "2013 – 2017",
+        "description": "Did my secondary education with a focus on mathematics and sciences, laying the foundation for my computing career"
+      },
+      
+      {
         "role": "Computer Science Student",
         "company": "Cavendish University Zambia",
         "period": "2021 – Present",
@@ -192,8 +199,9 @@
       { "name": "PHP", "level": 80 },
       { "name": "Python", "level": 75 },
       { "name": "Robotics", "level": 70 },
-      { "name": "Math", "level": 99 },
-      { "name": "React.js", "level": 40 }
+      { "name": "Math", "level": 90 },
+      { "name": "Problem Solving", "level": 85 },
+      { "name": "React.js", "level": 60 }
     ],
     "softSkills": ["Problem Solving", "Scalable Design Thinking", "Team Collaboration", "STEM Innovation"],
     "projects": [
@@ -207,7 +215,7 @@
         "title": "Hospital Management System",
         "description": "Comprehensive full-stack web application for healthcare facility management",
         "url": "#",
-        "tech": ["Java", "SQL", "Web Development"]
+        "tech": ["React", "SQL", "Python", "JavaScript"]
       },
       {
         "title": "E-Commerce Car Sale Platform",
@@ -227,6 +235,8 @@
       "Supervised Machine Learning – Coursera",
       "Generative AI – Coursera",
       "Inventory Management – Coursera",
+      "HTML/CSS for Web Developers – Coursera",
+      "Java Programming – Coursera",
       "Game Theory – Coursera"
     ]
   },
