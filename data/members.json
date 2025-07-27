@@ -169,9 +169,10 @@
     "bio": "Final-year Computer Science student with strong web development skills and a passion for solving real-world problems using technology. Experienced with a broad tech stack and currently expanding into Python and React for data and dynamic apps.",
     "education": [
       {
-        "role": "Student",
-        "company": "Nchanga Secondary Trust School",
-        "period": "2013 – 2017",
+        "degree": "Student",
+        "institution": "Nchanga Secondary Trust School",
+        "year": "2013 – 2017",
+        "gpa": null,
         "description": "Did my secondary education with a focus on mathematics and sciences, laying the foundation for my computing career"
       },
       
