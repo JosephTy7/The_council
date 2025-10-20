@@ -166,10 +166,10 @@
       "linkedin": "https://www.linkedin.com/in/gary-mbuyi-97843b31a/",
       "github": "https://github.com/GaryMbuyi11"
     },
-    "bio": "Final-year Computer Science student with strong web development skills and a passion for solving real-world problems using technology. Experienced with a broad tech stack and currently expanding into Python and React for data and dynamic apps.",
+    "bio": "A graduate from cavendish holding a bachelor of science in computing with strong web development skills and a passion for solving real-world problems using technology. Experienced with a broad tech stack and currently expanding into Python and React for data and dynamic apps.",
     "education": [
       {
-        "degree": "Student",
+        "degree": "Grade 12 Certificate",
         "institution": "Nchanga Secondary Trust School",
         "year": "2013 – 2017",
         "gpa": null,
@@ -179,7 +179,7 @@
       {
         "degree": "Bachelor of Science in Computing",
         "institution": "Cavendish University Zambia",
-        "year": "Expected: Oct 2025",
+        "year": "2021 - 2025",
         "gpa": "3.6",
         "description": "Specializing in Software Development, Database Management, Web Development, and Data Structures & Algorithms"
       }
@@ -188,8 +188,14 @@
       {
         "role": "Computer Science Student",
         "company": "Cavendish University Zambia",
-        "period": "2021 – Present",
+        "period": "2021 – 2025",
         "description": "Active participant in Cavendish Robotics Club and STEM competitions, developing practical solutions through academic projects"
+      },
+      {
+        "role": "Web Developer",
+        "company": "CoreLink Consulting limited",
+        "period": "2025 – present",
+        "description": "Taking a web development internship role, contributing to front-end and back-end web projects using modern technologies"
       }
     ],
     "skills": [
@@ -202,7 +208,7 @@
       { "name": "Robotics", "level": 70 },
       { "name": "Math", "level": 90 },
       { "name": "Problem Solving", "level": 85 },
-      { "name": "React.js", "level": 60 }
+      { "name": "React", "level": 60 }
     ],
     "softSkills": ["Problem Solving", "Scalable Design Thinking", "Team Collaboration", "STEM Innovation"],
     "projects": [
